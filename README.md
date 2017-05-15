@@ -13,6 +13,8 @@ You can also use ```Dubai-Light```, ```Dubai-Medium```, and ```Dubai-Regular```.
 
 Alternatively, you can use the classes ```font-dubai-bold```, ```font-dubai-medium```, ```font-dubai-regular```, ```font-dubai-light```.
 
+### Disclaimer
+
 This repo uses [Raw Git](http://rawgit.com) which is a free service, but it comes with [no uptime guarantee or support guarantees](https://github.com/rgrove/rawgit/blob/master/FAQ.md#i-need-guaranteed-100-uptime-should-i-use-cdnrawgitcom) 
 
 
