@@ -16,3 +16,4 @@ Alternatively, you can use the classes ```font-dubai-bold```, ```font-dubai-medi
 This repo uses [Raw Git](http://rawgit.com) which is a free service, but it comes with [no uptime guarantee or support guarantees](https://github.com/rgrove/rawgit/blob/master/FAQ.md#i-need-guaranteed-100-uptime-should-i-use-cdnrawgitcom) 
 
 
+Font files are downloaded from http://www.dubaifont.com and they hold all the rights for this font.
