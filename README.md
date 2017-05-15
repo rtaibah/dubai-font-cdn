@@ -1,4 +1,4 @@
-This is a poor-man's CDN for the Arabic [Dubain Font](http://www.dubaifont.com/site?lang=en).
+This is a poor-man's CDN for the Arabic [Dubai Font](http://www.dubaifont.com/site?lang=en).
 
 ## How to Use
 Import the font into your project:
@@ -11,4 +11,4 @@ Use the font with your selectors:
 
 You can also use ```Dubai-Light```, ```Dubai-Medium```, and ```Dubai-Regular```.
 
-
+Alternatively, you can use the classes ```font-dubai-bold```, ```font-dubai-medium```, ```font-dubai-regular```, ```font-dubai-light```.
