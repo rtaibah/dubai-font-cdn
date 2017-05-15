@@ -1,39 +1,39 @@
 @font-face {
   font-family: 'Dubai-Bold';
-  src:  url('//fonts/Dubai-Bold.eot') format('embedded-opentype'),  
-        url('//fonts/Dubai-Bold.woff') format('woff'), 
-        url('//fonts/Dubai-Bold.ttf')  format('truetype'), 
-        url('//fonts/Dubai-Bold.svg#Dubai-Bold') format('svg');
+  src:  url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Bold.eot') format('embedded-opentype'),  
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Bold.woff') format('woff'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Bold.ttf')  format('truetype'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Bold.svg#Dubai-Bold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Dubai-Medium';
-  src:  url('//fonts/Dubai-Medium.eot') format('embedded-opentype'),  
-        url('//fonts/Dubai-Medium.woff') format('woff'), 
-        url('//fonts/Dubai-Medium.ttf')  format('truetype'), 
-        url('//fonts/Dubai-Medium.svg#Dubai-Medium') format('svg');
+  src:  url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Medium.eot') format('embedded-opentype'),  
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Medium.woff') format('woff'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Medium.ttf')  format('truetype'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Medium.svg#Dubai-Medium') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Dubai-Regular';
-  src:  url('//fonts/Dubai-Regular.eot') format('embedded-opentype'),  
-        url('//fonts/Dubai-Regular.woff') format('woff'), 
-        url('//fonts/Dubai-Regular.ttf')  format('truetype'), 
-        url('//fonts/Dubai-Regular.svg#Dubai-Regular') format('svg');
+  src:  url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Regular.eot') format('embedded-opentype'),  
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Regular.woff') format('woff'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Regular.ttf')  format('truetype'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Regular.svg#Dubai-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Dubai-Light';
-  src:  url('//fonts/Dubai-Light.eot') format('embedded-opentype'),  
-        url('//fonts/Dubai-Light.woff') format('woff'), 
-        url('//fonts/Dubai-Light.ttf')  format('truetype'), 
-        url('//fonts/Dubai-Light.svg#Dubai-Light') format('svg');
+  src:  url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Light.eot') format('embedded-opentype'),  
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Light.woff') format('woff'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Light.ttf')  format('truetype'), 
+        url('//github.com/rtaibah/dubai-font-cdn/blob/master/fonts/Dubai-Light.svg#Dubai-Light') format('svg');
   font-weight: normal;
   font-style: normal;
 }
