@@ -1,4 +1,6 @@
-This is a poor-man's CDN for the Arabic [Dubai Font](http://www.dubaifont.com/site?lang=en). You do not need to clone this repo to use it. See [How to Use](https://developers.google.com/web/fundamentals/getting-started/principles/).
+This is a poor-man's CDN for the Arabic [Dubai Font](http://www.dubaifont.com/site?lang=en). 
+
+You do not need to clone this repo to use it. See [How to Use](https://github.com/rtaibah/dubai-font-cdn#how-to-use).
 
 ## How to Use
 Import the font into your project:
